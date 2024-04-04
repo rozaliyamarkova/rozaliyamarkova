@@ -1,5 +1,5 @@
 <!-- Banner -->
-![MasterHead](https://github.com/rozaliyammarkova/Sammy-banner/blob/03afca144473e6d67f9acf7d0a9037177099739c/Sammy.png)
+![MasterHead] (https://github.com/rozaliyamarkova/Sammy-banner/blob/03afca144473e6d67f9acf7d0a9037177099739c/Sammy.png](https://github.com/rozaliyamarkova/rozaliyamarkova/blob/main/Sammy.png)
 
 <!-- Heading -->
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hiya! I'm Rozy</h1>
