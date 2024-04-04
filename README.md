@@ -11,7 +11,7 @@
 <!-- GIF -->
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZrYXR1YjR3ejRvaDdhaWM4bzdtYWtna3BkamQxazY1eWxqcmo3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif">
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rozaliyammarkova&label=Profile%20views&color=0e75b6&style=flat" alt="rozaliyammarkova" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rozaliyamarkova&label=Profile%20views&color=0e75b6&style=flat" alt="rozaliyamarkova profile views" /></p>
 
 - 🔭 I’m currently working on **this page 😄**
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I enjoy baking and cooking ❤️**
 
-<!-- About Me Cection: END -->
+<!-- About Me Section: END -->
 
 <!-- Connect With Me Section -->
 <h3 align="left">Connect with me:</h3>
@@ -36,7 +36,7 @@
 <h2><b>My GitHub Stats</b><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozaliyammarkova" alt="Rozy's Streak Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rozaliyammarkova&show_icons=true&locale=en&layout=compact" alt="rozaliyammarkova"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rozaliyammarkova&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Rozy's Language Stats" height="192px" width="500px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozaliyamarkova" alt="Rozy's Streak Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rozaliyamarkova&show_icons=true&locale=en&layout=compact" alt="rozaliyamarkova"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rozaliyamarkova&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Rozy's Language Stats" height="192px" width="500px"/>
 </div>
